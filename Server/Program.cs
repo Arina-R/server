@@ -28,7 +28,7 @@ namespace Server
                 {
                     // Подключение клиента
                     TcpClient client = server.AcceptTcpClient();
-                    NetworkStream stream = client.GetStream();
+                    NetworkStream stream = client.GetщззщStream();
                     // Обмен данными
                     try
                     {
