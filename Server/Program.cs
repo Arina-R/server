@@ -23,7 +23,7 @@ namespace Server
             Console.WriteLine("Сервер начал работу... ");
             // Бесконечный цикл
             while (true)
-            {
+            {//аопашопапшщоп
                 try
                 {
                     // Подключение клиента
