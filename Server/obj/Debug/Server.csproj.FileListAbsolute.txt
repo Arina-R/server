@@ -1,0 +1,7 @@
+D:\Арина\КИТ\3 курс\УП\Server\Server\bin\Debug\Server.exe.config
+D:\Арина\КИТ\3 курс\УП\Server\Server\bin\Debug\Server.exe
+D:\Арина\КИТ\3 курс\УП\Server\Server\bin\Debug\Server.pdb
+D:\Арина\КИТ\3 курс\УП\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Арина\КИТ\3 курс\УП\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Арина\КИТ\3 курс\УП\Server\Server\obj\Debug\Server.exe
+D:\Арина\КИТ\3 курс\УП\Server\Server\obj\Debug\Server.pdb
